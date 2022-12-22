@@ -39,6 +39,7 @@
         <entry key="app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.7815" />
         <entry key="app/src/main/res/drawable/ic_baseline_sticky_note_2_24.xml" value="0.7815" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.7815" />
+        <entry key="app/src/main/res/drawable/resource.xml" value="0.172" />
         <entry key="app/src/main/res/layout/activity_calendar_detail.xml" value="0.2663462320963542" />
         <entry key="app/src/main/res/layout/activity_diary_detail.xml" value="0.7979166666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.10921478271484375" />
